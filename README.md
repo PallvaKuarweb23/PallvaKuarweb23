@@ -12,6 +12,7 @@
 - 📫 How to reach me **Pallavamarc@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing](https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing)
+- All of project is present in my Portfolio [http://127.0.0.1:5500/PallvaKuarweb23.github.io/index.html]
 
 - ⚡ Fun fact **I think I am funny**
 
