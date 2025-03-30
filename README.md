@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pallava Kuar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Amazon Cloneing**
+- 🔭 I’m currently learning on **Generative Ai**
 
-- 🌱 I’m currently learning **Node.js,Javascript,MongoDB,NoSql**
+- 🌱 I’m currently Working with **Node.js,Javascript,MongoDB,NoSql ,MySql,NestJs,Micoservice,Generative AI**
 
-- 👯 I’m looking to collaborate on **Amazon Cloneing**
+- 👯 I’m looking to collaborate on **New Projects like AI**
 
-- 💬 Ask me about **Node.js,Javascript,MongoDB,Express**
+- 💬 Ask me about **Node.js,Javascript,MongoDB,Express,MySql,NestJS,Microservice**
 
-- 📫 How to reach me **Pallavamarc@gmail.com**
+- 📫 How to reach me **Pallavakuar93@gmail.com**
 
 - 📄 Know about my experiences [About me](https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing)
 - All of project is present in my Portfolio [Portfolio](https://pallvakuarweb23.github.io/)
