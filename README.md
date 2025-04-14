@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **Pallavakuar93@gmail.com**
 
-- 📄 Know about my experiences [About me](https://drive.google.com/file/d/1up4dMx7FQMzTD5ihQMngZcX6sz3QiSQS/view?usp=sharing)
-- All of project is present in my Portfolio [Portfolio](https://pallvakuarweb23.github.io/)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
